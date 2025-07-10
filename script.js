@@ -16,7 +16,7 @@ const chordMap = {
 // Pool of 10 A chord samples
 const aChordSamples = [
   { src: "newsounds/AJumbo_Pick_A_Chord_Bridge.mp3", label: "Jumbo Bridge Pick (A)" },
-  { src: "newsounds/Jumbo_Pick_A_Chord_Neck.mp3", label: "Jumbo Neck Pick (A)" },
+  { src: "newsounds/AJumbo_Pick_A_Chord_Neck.mp3", label: "Jumbo Neck Pick (A)" },
   { src: "newsounds/D18_Fingers_A_Chord_Bridge.mp3", label: "D18 Bridge Fingers (A)" },
   { src: "newsounds/D18_Fingers_A_Chord_Neck.mp3", label: "D18 Neck Fingers (A)" },
   { src: "newsounds/D18_Pick_A_Chord_Bridge.mp3", label: "D18 Bridge Pick (A)" },
@@ -58,7 +58,7 @@ const eChordSamples = [
   { src: "newsounds/AJumbo_Pick_E_Chord_Bridge.mp3", label: "Jumbo Bridge Pick (E)" },
   { src: "newsounds/AJumbo_Pick_E_Chord_Neck.mp3", label: "Jumbo Neck Pick (E)" },
   { src: "newsounds/D18_Fingers_E_Chord_Bridge.mp3", label: "D18 Bridge Fingers (E)" },
-  { src: "newsounds/D18_Fingers_E_Chord_Neck.mp3", label: "D18 Neck Fingers (E)" },
+  { src: "newsounds/D18_Fingers_E_Neck.mp3", label: "D18 Neck Fingers (E)" },
   { src: "newsounds/D18_Pick_E_Chord_Bridge.mp3", label: "D18 Bridge Pick (E)" },
   { src: "newsounds/D18_Pick_E_Chord_Neck.mp3", label: "D18 Neck Pick (E)" },
   { src: "newsounds/J35_Pick_E_Chord_Bridge.mp3", label: "J35 Bridge Pick (E)" },
